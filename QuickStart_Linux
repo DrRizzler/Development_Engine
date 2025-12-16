@@ -1,0 +1,4 @@
+### Quick Start (Linux)
+cmake --preset release
+cmake --build --preset triangle-release
+./build/release/triangle
